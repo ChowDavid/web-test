@@ -12,5 +12,5 @@ mvn clean test verify -U
 mvn tomcat:run -Dmaven.tomcat.port=8089
 ```
 
-## Junit to test mock it.
+
 
