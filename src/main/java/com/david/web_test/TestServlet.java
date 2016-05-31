@@ -23,7 +23,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String username=request.getParameter("username");
-		response.getWriter().append("Served at: Hello "+username+" ").append(request.getContextPath());
+		response.getWriter().append("Served at: Hello 123 "+username+" ").append(request.getContextPath());
 	}
 
 	/**
