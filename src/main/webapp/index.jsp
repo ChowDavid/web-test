@@ -7,7 +7,7 @@
 			<td><label for="username">Username</label></td><td><input name="username" type="text"/></td>
 		</tr>
 		<tr>
-			<td><label for="password">Password</label></td><td><input name="password" type="text"/></td>
+			<td><label for="password">Password</label></td><td><input name="password" type="password"/></td>
 		</tr>
 		<tr><td><button type="submit">Submit</button></td></tr>
 	
